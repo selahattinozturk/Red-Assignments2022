@@ -17,6 +17,6 @@ For **ACIKLAMALAR** column:
 4.	Write your IDEA script file (name_surname_test.iss)
 
 For the demonstration, the database is shown in Figure 1 below.
-The IDEA script file will be delivered until the end of **17.11.2021**.
+The IDEA script file will be delivered until the end of **17.06.2022**.
 
 > **WARNING** **Create your own branch and upload your files in that branch only at the moment** Be careful here!
