@@ -4,7 +4,7 @@ This repository contains scripts for assignments in **red** group.
 ## Description
 
 Write an Idea script file (name_surname_test.iss) that calls a function. 
-In this function, you are going to create an IDEA database (name_surname_test.IMD) with 3 columns.
+In this function, you are going to create an IDEA database (name_surname_test.IMD) with 3 columns. You will not be importing the database and pulling the data. We want you to create the table with codes as described.
 
 Columns (fields) will be named as **ACIKLAMALAR**, **CARI_DONEM** and **ONCEKI_DONEM**.
 
