@@ -14,7 +14,6 @@ wsNat['A1'] = "ACIKLAMALAR"
 wsNat['B1'] = "CARI_DONEM"
 wsNat['C1'] = "GECMIS_DONEM"
 
-number = {"zero": 0}
 
 # DATAS ARE IN C,D AND E COLUMNS; CARI_DONEM = K, GECMIS_DONEM = L\
 # APPENDING THE VALUES
